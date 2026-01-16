@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kademoslabs/assets/main/logos/kademos-labs-hr-logo.png" alt="Kademos Labs Logo" width="250"/>
+</p>
+<p align="center"><i>Security without surrendering control</i></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
+  <img src="https://img.shields.io/badge/status-active-brightgreen"/>
+</p>
+
 # Kademos Labs
 
 We build lean security and compliance tools that help teams ship.
