@@ -16,6 +16,10 @@ We build lean security and compliance tools that help teams ship.
   → https://kademos.org/kekkai  
   → Repo: https://github.com/kademoslabs/kekkai-cli
 
+- **Kroxli** — open-source test runner for infrastructure compliance. CI/CD-native. Audit-ready.  
+  → https://kademos.org/kroxli  
+  → Repo: https://github.com/kademoslabs/kroxli
+
 - **Regulon** — PSTI compliance tooling for UK product sellers and importers.  
   → https://kademos.org/regulon
 
