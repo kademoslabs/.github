@@ -21,9 +21,11 @@ We build lean security and compliance tools that help teams ship.
   → Repo: https://github.com/kademoslabs/kroxli
 
 - **Regulon** — PSTI compliance tooling for UK product sellers and importers.  
-  → https://kademos.org/regulon
+  → https://kademos.org/regulon  
+  → Repo: https://github.com/kademoslabs/regulon-psti-checker
 
-- **Responsa** — security questionnaire acceleration for sales teams.  
+
+- **Responsa** — security questionnaire acceleration for sales teams. _**Coming Soon**_  
   → https://kademos.org/responsa
 
 ## Open source
