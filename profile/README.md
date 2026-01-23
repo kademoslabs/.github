@@ -24,9 +24,9 @@ We build lean security and compliance tools that help teams ship.
   → https://kademos.org/regulon  
   → Repo: https://github.com/kademoslabs/regulon-psti-checker
 
+- **Hestia** — Hestia helps UK landlords stay compliant with the Renters' Rights Act 2025 and Awaab's Law through automated tracking, reminders, and evidence generation. 
 
-- **Responsa** — security questionnaire acceleration for sales teams. _**Coming Soon**_  
-  → https://kademos.org/responsa
+  → https://kademos.org/hestia
 
 ## Open source
 We publish developer-first tooling and keep commercial products private until they’re ready.
