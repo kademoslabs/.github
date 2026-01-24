@@ -14,7 +14,7 @@ We build lean security and compliance tools that help teams ship.
 ## Products
 - **Kekkai CLI** — one-command AppSec orchestration and clean reports.  
   → https://kademos.org/kekkai  
-  → Repo: https://github.com/kademoslabs/kekkai-cli
+  → Repo: https://github.com/kademoslabs/kekkai
 
 - **Kroxli** — open-source test runner for infrastructure compliance. CI/CD-native. Audit-ready.  
   → https://kademos.org/kroxli  
